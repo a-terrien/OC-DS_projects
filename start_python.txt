@@ -1,0 +1,26 @@
+(ana)Canda (environnemnt virtuelle) - distribution d'anaconda - centraliser toutes les données + environnemnts
+Changer les dossiers (télécharger les packages avec Canda)
+
+COMMANDES A RETENIR
+- which python
+- conda create -n env_name python=3.8
+- conda env list
+- pip install jupyterlab
+
+COMMANDES pour créer un environnement virtuel sur Windows
+- conda
+- which python
+- conda create -n env_project_2 python=3.8
+- conda activate env_project_2
+- pip install pandas
+- pip freeze
+- pip install jupyterlab
+- jupyter lab
+
+Qu'est-ce qu'un environnement virtuel ?
+- C'est un ensemble de packages
+- A REECRIRE
+	
+A quoi sert un environnement virtuel ?
+- Sert à garder les libraires dans leur forme utilisé à l'époque de la création du fichier pour qu'il n'y ait ni conflit ni problème de fonctions modifiés entre temps. Le but étant de faire fonctionner le fichier comme au moment où nous l'avons utilisé. Il faut donc le figer pour garder toutes ces capacités. 
+- A REECRIRE
